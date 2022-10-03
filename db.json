@@ -1,0 +1,104 @@
+{
+  "clothing": [
+    {
+      "category": "Womens",
+      "brand": "Teamspirit",
+      "title": "Trackpants with Elasticated Waistband",
+      "price": "₹219",
+      "original_price": "₹399",
+      "offer_price": "200",
+      "discount": "(45% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210719/18Ns/60f5a94baeb269a9e3475bc0/teamspirit_grey_trackpants_with_elasticated_waistband.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "Kimayra",
+      "title": "Printed Anarkali Kurta Suit Set",
+      "price": "₹1,599",
+      "original_price": "₹2,499",
+      "offer_price": "1,007",
+      "discount": "(36% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220326/oiLh/623e2e74aeb26921aff93f02/kimayra_mustard_printed_anarkali_kurta_suit_set.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "AKS",
+      "title": "Floral Print Kurta Suit Set",
+      "price": "₹1,350",
+      "original_price": "₹2,999",
+      "offer_price": "810",
+      "discount": "(55% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220523/dZBZ/628b9fe3f997dd03e2168832/aks_off_white_floral_print_kurta_suit_set.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "AVAASA MIX N' MATCH",
+      "title": "Ankle-Length Leggings with ElasticatedWaist",
+      "price": "₹359",
+      "original_price": "₹399",
+      "offer_price": "359",
+      "discount": "(10% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/he3/hef/14457429393438/avaasa_mix_n%27_match_white_ankle-length_leggings_with_elasticated_waist.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "GULMOHAR JAIPUR",
+      "title": "Embellished A-line Kurta Sets",
+      "price": "₹999",
+      "original_price": "₹2,299",
+      "offer_price": "629",
+      "discount": "(57% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220117/ig1s/61e55e95f997dd662324fde6/gulmohar_jaipur_navy_embellished_a-line_kurta_sets.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "Janasya",
+      "title": "Floral Woven Straight Kurta Set withDupatta",
+      "price": "₹1,504",
+      "original_price": "₹2,949",
+      "offer_price": "948",
+      "discount": "(49% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211202/Yw2C/61a8fc9faeb2690110ebd4ea/janasya_pink_floral_woven_straight_kurta_set_with_dupatta.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "FUSION",
+      "title": "Embroidered Fit & Flare Dress",
+      "price": "₹450",
+      "original_price": "₹1,499",
+      "offer_price": "450",
+      "discount": "(70% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220211/SUbc/62067f93aeb26921af94ac38/fusion_red_embroidered_fit_%26_flare_dress.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "FIG",
+      "title": "Solid Crew-Neck Sweater",
+      "price": "₹315",
+      "original_price": "₹699",
+      "offer_price": "280",
+      "discount": "(55% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210921/4uzu/6148e920aeb269a26899fbe6/fig_pink_solid_crew-neck_sweater.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "AVAASA MIX N' MATCH",
+      "title": "Ankle-Length Leggings with ElasticatedWaist",
+      "price": "₹359",
+      "original_price": "₹399",
+      "offer_price": "359",
+      "discount": "(10% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/h9d/h1a/14560445333534/avaasa_mix_n%27_match_black_ankle-length_leggings_with_elasticated_waist.jpg"
+    },
+    {
+      "category": "Womens",
+      "brand": "Kimayra",
+      "title": "Floral Print Flared Kurta",
+      "price": "₹899",
+      "original_price": "₹1,999",
+      "offer_price": "566",
+      "discount": "(55% off)",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20220316/ZnJH/6230f7c0aeb26921afdae8ee/kimayra_green_floral_print_flared_kurta.jpg"
+    }
+  ]
+}
